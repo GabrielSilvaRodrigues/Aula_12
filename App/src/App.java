@@ -1,5 +1,6 @@
+import meuPacote.aluno;
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+        aluno a = new aluno();
     }
 }
